@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+graphic_arts
 .Python
-graphic_arts/
 build/
 develop-eggs/
 dist/
